@@ -26,12 +26,9 @@ export default {
 			},
 			option: {
 				appID: process.env.VUE_APP_ID,
-				// appID: "c414bc5c83954aec8467addd2cc43159",
 				channel: process.env.VUE_APP_CHANNEL,
-				// channel: "qwe",
 				uid: null,
 				token: process.env.VUE_APP_TOKEN
-				// token: "c414bc5c83954aec8467addd2cc43159"
 			}
 		};
 	},
